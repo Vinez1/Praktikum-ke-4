@@ -2,6 +2,8 @@
 ## NIM   : 312010018
 ## Kelas : TI.20.A.1
 
+
+
 # Praktikum 4
 
 ## Program Data Mahasiswa
@@ -84,3 +86,6 @@ for item in nilai:
           .format(no=i, nama=item[0], nim=item[1], tugas=item[2], uts=item[3], uas=item[4], akhir=item[5]))
 print("==================================================================")
 ```
+Flowchart dari program diatas seperti gambar dibawah ini :
+
+![flowcart](foto/flowchart.png)
