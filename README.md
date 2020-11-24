@@ -33,6 +33,10 @@ for item in nilai:
           .format(no=i, nama=item[0], nim=item[1], tugas=item[2], uts=item[3], uas=item[4], akhir=item[5]))
 print("==================================================================")
 ```
+denggan hasilnya seperti dibawah ini :
+
+[hasil](foto/hasil.png)
+
 Penjelasan:
 1.) Pertama kita membuat variable list kosong.
 ```python
