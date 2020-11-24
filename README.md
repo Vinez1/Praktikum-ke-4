@@ -95,4 +95,37 @@ Pada Praktikum 5 dosen memberikan saya tugas untuk membuat program sederhana yan
 
 ![Praktikum5](foto/Praktikum5.png)
 
+enjelasan: Penggunaan if c.lower() if c.lower() fungsinya apabila user menginputkan dengan huruf besar, maka otomatis akan menjadi huruf kecil sehingga kondisi yang diinginkan tercapai. contoh:
+``` python
+if c.lower() == 'q'
+```
+Penggunaan while True while True berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa type maka akan muncul eror *Penggunaan else Fungsi else ialah jika tidak eror dan type yang dimasukan sesuai maka proses while True Pengunaan valueError Fungsinya apabila diinputkan bukan berupa type maka hasilnya error (valueError) berikut source codenya:
+```python
+             while (True):
+                        nama = input(" Nama : ")
+                        if nama == '':
+                            P(' Masukan dengan Nama Dengan Benar')
+                        else:
+                            break
+                    while (True):
+                        try:
+                            nim  = int(input(" NIM  : "))
+                            if nim == '':
+                                P(' Masukan Nim dengan Angka')
+                        except ValueError:
+                            P(' Masukan Nim dengan Angka')
+                        else:
+                            break
+                    while (True):
+                        try:
+                            tugas  = int(input(" TUGAS  : "))
+                            if tugas == '':
+                                P(' Masukan TUGAS dengan Angka')
+                        except ValueError:
+                            P(' Masukan TUGAS dengan Angka')
+                        else:
+                            break
+ 
+```
+
 Sekian Terimakasih
