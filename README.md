@@ -1,3 +1,7 @@
+## Nama : Fery Affandi
+## NIM   : 312010018
+## Kelas : TI.20.A.1
+
 # Praktikum 4
 
 ## Program Data Mahasiswa
