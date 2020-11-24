@@ -1,8 +1,11 @@
 #Praktikum 4
+
 ##Program Data Mahasiswa
+
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
 
 ##Berikut Inputannya :
+
 ```python
 nilai = []
 ulang = True
