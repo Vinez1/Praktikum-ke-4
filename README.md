@@ -6,7 +6,7 @@ pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data k
 
 ## Berikut Inputannya :
 
-```python
+``` python
 nilai = []
 ulang = True
 
@@ -35,7 +35,7 @@ print("==================================================================")
 ```
 denggan hasilnya seperti dibawah ini :
 
-[hasil](foto/hasil.png)
+![hasil](foto/hasil.png)
 
 Penjelasan:
 1.) Pertama kita membuat variable list kosong.
