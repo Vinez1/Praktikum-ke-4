@@ -1,10 +1,10 @@
-#Praktikum 4
+# Praktikum 4
 
-##Program Data Mahasiswa
+## Program Data Mahasiswa
 
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
 
-##Berikut Inputannya :
+## Berikut Inputannya :
 
 ```python
 nilai = []
