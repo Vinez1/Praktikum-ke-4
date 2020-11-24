@@ -127,5 +127,14 @@ Penggunaan while True while True berfungsi untuk mendeteksi jika format yang dii
                             break
  
 ```
+Pengunaan round dan float round digunakan untuk menentukan banyaknya angka di belakang koma, sedangkan float digunakan untuk mengubah bilangan menjadi float(desimal) Berukut Source codenya: akhir = round((float(tugas) * 0.3)+(float(uts) * 0.35)+(float(uas) * 0.35),2) i.write('\nNama : '+nama+'
+|Nim : '+str(nim)+' <br>
+|Tugas : '+str(tugas)+' <br>
+|UTS : '+str(uts)+' <br>
+|UAS : '+str(uas)+" <br>
+|Akhir : "+str(akhir)+'\n') i.close() <br>
+Berikut Source code lengkapnya... #Membuat Program Sederhana Menampilkan Daftar Nilai Mahasiswa  #TI.20.A.1
+
+P = print while True: P("") P("") c = input("L)ihat, T)ambah, U)bah, H)apus, C)ari, K)eluar: ") if c.lower() == 'q': break elif c.lower() == 'l': i = open('database.txt','r').read().splitlines() P("
 
 Sekian Terimakasih
