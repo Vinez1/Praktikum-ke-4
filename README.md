@@ -2,15 +2,15 @@
 ## NIM   : 312010018
 ## Kelas : TI.20.A.1
 
+# Pertemuan 9
 
+## Praktikum 4
 
-# Praktikum 4
-
-## Program Data Mahasiswa
+### Program Data Mahasiswa
 
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
 
-## Berikut Inputannya :
+### Berikut Inputannya :
 
 ``` python
 nilai = []
@@ -89,5 +89,10 @@ print("==================================================================")
 Flowchart dari program diatas seperti gambar dibawah ini :
 
 ![flowcart](foto/flowchart.png)
+
+## Praktikum 5
+Pada Praktikum 5 dosen memberikan saya tugas untuk membuat program sederhana yang akan menampilkan daftar nilai mahasiswa. berikut soal yang dosen berikan:
+
+![Praktikum5](foto/Praktikum5.png)
 
 Sekian Terimakasih
