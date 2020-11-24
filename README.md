@@ -10,7 +10,7 @@
 
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
 
-### Berikut Inputannya :
+### Berikut Inputannya adalah :
 
 ``` python
 nilai = []
@@ -277,4 +277,4 @@ Dan Hasil Inputan diatas adalah sebagai berikut :
 
 ![hasil](foto/hasil2.png)
 
-Sekian Terimakasih
+## Sekian dari saya Terimakasih
