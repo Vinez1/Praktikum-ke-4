@@ -89,3 +89,5 @@ print("==================================================================")
 Flowchart dari program diatas seperti gambar dibawah ini :
 
 ![flowcart](foto/flowchart.png)
+
+Sekian Terimakasih
