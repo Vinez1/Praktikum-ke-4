@@ -1,4 +1,4 @@
-            else:
+else:
                 nm.append(str(l)+'\n')
     new = open('database.txt','w')
     new.write(str(nm))
