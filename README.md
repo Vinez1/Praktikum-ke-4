@@ -323,6 +323,6 @@ while True:
 ```
 Dan Hasil Inputan diatas adalah sebagai berikut :
 
-![hasil](foto/Hasil2.png)
+![hasil](foto/hasil2.png)
 
 ## Sekian dari saya Terimakasih
